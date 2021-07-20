@@ -11,4 +11,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orkpeko&show_icons=true&theme=midnight-purple&locale=en" alt="orkpeko" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orkpeko&theme=midnight-purple" alt="orkpeko" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=orkpeko&theme=midnight-purple" alt="orkpeko" /></p>
