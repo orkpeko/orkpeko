@@ -6,5 +6,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orkpeko&layout=compact&theme=midnight-purple&count_private=true" />
 </a>
 <h4 align="center">contact@orkpeko.xyz</h1>
-<h4 align="center">orkpeko#3351</h1><br> 
-<h4 align="center"> () /? /< |^ [- /< ()</h1><br> 
