@@ -1,8 +1,1 @@
-<h1 align="center">hey, im [orkpeko]</h1>
-<h6 align="center">https://www.orkpeko.xyz</h1>
-<h3 align="center">im an austrailian intermediate developer that does things :) <br></h3>
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=orkpeko&count_private=true&theme=midnight-purple&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orkpeko&layout=compact&theme=midnight-purple&count_private=true" />
-</a>
-<h4 align="center">contact@orkpeko.xyz</h1>
+![Metrics](https://metrics.lecoq.io/orkpeko?template=classic&languages=1&achievements=1&discussions=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&discussions.categories=true&discussions.categories.limit=0&config.timezone=Australia%2FHobart)
