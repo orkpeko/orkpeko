@@ -9,5 +9,5 @@ Hi, I'm Ryan and I'm an Australian developer that is certainly not stupid or clu
 ![](https://github-readme-stats.vercel.app/api?username=orkpeko&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=orkpeko&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=orkpeko&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-[![](https://visitcount.itsvg.in/api?id=orkpeko&icon=2&color=12)](https://visitcount.itsvg.in)<br/>
+[![](https://visitcount.itsvg.in/api?id=orkpeko&icon=2&color=12)](https://visitcount.itsvg.in)<br/><br/>
 ![Metrics](/github-metrics.svg)
