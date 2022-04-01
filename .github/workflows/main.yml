@@ -24,7 +24,7 @@ jobs:
 
           # Options
           user: orkpeko
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Australia/Sydney
           plugin_code: yes
@@ -75,4 +75,7 @@ jobs:
           plugin_repositories_forks: yes
           plugin_support: yes
           plugin_traffic: yes
+          plugin_tweets: yes
+          plugin_tweets_limit: 2
+          plugin_tweets_user: orkpeko
           repositories_forks: yes
