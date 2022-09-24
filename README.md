@@ -1,14 +1,61 @@
-# About Me
-Hi, I'm Ryan and I'm an Australian developer that is certainly not stupid nor clueless 
-(not all of the code i make is uploaded here. sorry!!!!)
+<div align="center">
+<img src="https://c.tenor.com/42udpYSRRQgAAAAC/toro-inoue-doko-demo-issyo.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<a href="https://twitter.com/orkpeko" target="blank"><img src="https://img.shields.io/twitter/follow/orkpeko?logo=twitter&style=for-the-badge" alt="orkpeko" /></a> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/orkpeko) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/orkpeko)<br>
+### <div align="center">Hi, I'm Ryan and I'm an Australian developer that is certainly not stupid nor clueless</div>  
+  
 
-# Knowledge 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# GitHub Statistics
-![](https://github-readme-stats.vercel.app/api?username=orkpeko&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=orkpeko&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=orkpeko&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-[![](https://visitcount.itsvg.in/api?id=orkpeko&icon=2&color=12)](https://visitcount.itsvg.in)<br/><br/>
+#### <div align="center">(not all of the code i make is uploaded here. sorry!!!! ;(( )</div>  
+<div align="center">  
+<a div align="center" href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a div align="center" href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a div align="center" href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a div align="center" href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
+</div>
+<div align="center">  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
+</div>
 
+</td></tr></table>  
+
+<br/>  
+
+
+## Social Media 
+<div align="center">
+<a href="https://twitter.com/orkpeko" target="_blank">
+<img src=https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.discord.gg/qjdrZyn" target="_blank">
+<img src=https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a>
+<a href="https://tiktok.com/@orkpeko" target="_blank">
+<img src=https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white alt=tiktok style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/orkpeko" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.twitch.tv/orkpeko" target="_blank">
+<img src=https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=orkpeko&theme=radical&hide_border=false&include_all_commits=true&count_private=true" align="center"/></div>  
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=orkpeko&theme=radical&hide_border=false" align="center"/></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orkpeko&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" align="center"/></div>  
+<div align="center"><img src="https://visitcount.itsvg.in/api?id=orkpeko&icon=0&color=0" align="center"/></div>  
+
+<br/>  
+
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=paperfox12&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>  
