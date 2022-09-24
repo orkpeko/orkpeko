@@ -31,7 +31,7 @@
 <img src=https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="" target="_blank">
-<img src=https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white alt=orkpeko#9999 style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/orkpeko%239999-%235865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white alt=orkpeko#9999 style="margin-bottom: 5px;" />
 </a>
 <a href="https://tiktok.com/@orkpeko" target="_blank">
 <img src=https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white alt=tiktok style="margin-bottom: 5px;" />
