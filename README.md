@@ -6,7 +6,7 @@
 ### <div align="center">Hi, I'm Ryan and I'm an Australian developer that is certainly not stupid nor clueless</div>  
   
 
-#### <div align="center">(not all of the code i make is uploaded here. sorry!!!! ;(( )</div>  
+#### <div align="center">(not all of the code i make is uploaded or maintained here. sorry!!!! ;(( )</div>  
 <div align="center">  
 <a div align="center" href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a div align="center" href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
