@@ -1,61 +1,65 @@
+<h2 align="left">hey, im orkpeko and im a mediocre developer from australia</h2>
+
+###
+
 <div align="center">
-<img src="https://c.tenor.com/42udpYSRRQgAAAAC/toro-inoue-doko-demo-issyo.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">Hi, I'm Ryan and I'm an Australian developer that is certainly not stupid nor clueless</div>  
-  
-
-#### <div align="center">(not all of the code i make is uploaded or maintained here. sorry!!!! ;(( )</div>  
-<div align="center">  
-<a div align="center" href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a div align="center" href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a div align="center" href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a div align="center" href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-</div>
-<div align="center">  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
+  <img src="https://github-readme-stats.vercel.app/api?username=orkpeko&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orkpeko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-</td></tr></table>  
+###
 
-<br/>  
+<div align="left">
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/blender/F5792A" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="30" alt="gamemakerstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/windows/0078D6" height="30" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="30" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="30" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="30" alt="kotlin logo"  />
+</div>
 
+###
 
-## Social Media 
-<div align="center">
-<a href="https://twitter.com/orkpeko" target="_blank">
-<img src=https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/orkpeko%239999-%235865F2.svg?&style=for-the-badge&logo=Discord&logoColor=white alt=orkpeko#9999 style="margin-bottom: 5px;" />
-</a>
-<a href="https://tiktok.com/@orkpeko" target="_blank">
-<img src=https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white alt=tiktok style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/orkpeko" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.twitch.tv/orkpeko" target="_blank">
-<img src=https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
+<img align="right" height="150" src="https://c.tenor.com/42udpYSRRQgAAAAC/toro-inoue-doko-demo-issyo.gif6f2d697373796f2e676966"  />
 
-</div>  
-  
+###
 
-<br/>  
+<div align="left">
+  <a href="youtube.com/orkpeko" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="instagram.com/orkpeko" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="twitch.tv/orkpeko" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="orkpeko" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 
+###
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=orkpeko&theme=radical&hide_border=false&include_all_commits=true&count_private=true" align="center"/></div>  
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=orkpeko&theme=radical&hide_border=false" align="center"/></div>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orkpeko&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" align="center"/></div>  
-<div align="center"><img src="https://visitcount.itsvg.in/api?id=orkpeko&icon=0&color=0" align="center"/></div>  
+<br clear="both">
 
-<br/>  
+<img src="https://raw.githubusercontent.com/orkpeko/orkpeko/output/snake.svg" alt="Snake animation" />
 
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=paperfox12&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true" /></div>  
+###
