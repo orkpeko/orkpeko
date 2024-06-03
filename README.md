@@ -1,54 +1,51 @@
 <h2 align="left">hey, im orkpeko and im a mediocre developer from australia</h2>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=orkpeko&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orkpeko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+### EXPERIENCE
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
+  <img align="right" height="150" src="https://c.tenor.com/42udpYSRRQgAAAAC/toro-inoue-doko-demo-issyo.gif6f2d697373796f2e676966"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="HTML5"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="30" alt="blender logo"  />
+  <img src="https://cdn.simpleicons.org/blender/F5792A" height="30" alt="Blender"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="Javascript"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="30" alt="GameMaker Studio"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="30" alt="gamemakerstudio logo"  />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="Photoshop"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="Python"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/windows/0078D6" height="30" alt="windows10 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="30" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="30" alt="kotlin logo"  />
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="30" alt="Premiere Pro"  />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://c.tenor.com/42udpYSRRQgAAAAC/toro-inoue-doko-demo-issyo.gif6f2d697373796f2e676966"  />
-
-###
+### OPERATING SYSTEMS
 
 <div align="left">
-  <a href="https://youtube.com/orkpeko">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://instagram.com/orkpeko">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://twitch.tv/orkpeko">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="Android"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/windows10/0078D6" height="30" alt="Windows 10"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/endeavouros/7F7FFF" height="30" alt="EndeavourOS"  />
+</div>
+
+---
+
+### SOCIALS
+
+<div align="left">
+    <img width="12" />
+  <a href="https://twitch.tv/orkpeko"><img src="https://cdn.simpleicons.org/twitch/9146FF" height="30" alt="Twitch"  /></a>
+    <img width="12" />
+  <a href="https://instagram.com/orkpeko"><img src="https://cdn.simpleicons.org/instagram/#E4405F" height="30" alt="Instagram"  /></a>
+      <img width="12" />
+  <a href="https://youtube.com/orkpeko"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="30" alt="YouTube"  /></a>
 </div>
 
 ###
