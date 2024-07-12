@@ -30,7 +30,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="Android"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/windows10/0078D6" height="30" alt="Windows 10"  />
+  <img src="https://cdn.simpleicons.org/windows/0078D6" height="30" alt="Windows 10 (they removed the icon)"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/endeavouros/7F7FFF" height="30" alt="EndeavourOS"  />
 </div>
