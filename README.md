@@ -17,6 +17,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="Photoshop"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="30" alt="Godot"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="Python"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="30" alt="Premiere Pro"  />
@@ -30,7 +32,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="Android"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/windows/0078D6" height="30" alt="Windows 10 (they removed the icon)"  />
+  <img src="https://skillicons.dev/icons?i=windows" height="30" alt="Windows 10"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/endeavouros/7F7FFF" height="30" alt="EndeavourOS"  />
 </div>
@@ -43,7 +45,7 @@
     <img width="12" />
   <a href="https://twitch.tv/orkpeko"><img src="https://cdn.simpleicons.org/twitch/9146FF" height="30" alt="Twitch"  /></a>
     <img width="12" />
-  <a href="https://instagram.com/orkpeko"><img src="https://cdn.simpleicons.org/instagram/#E4405F" height="30" alt="Instagram"  /></a>
+  <a href="https://instagram.com/orkpeko"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram"  /></a>
       <img width="12" />
   <a href="https://youtube.com/orkpeko"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="30" alt="YouTube"  /></a>
 </div>
