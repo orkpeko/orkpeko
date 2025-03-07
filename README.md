@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="30" alt="GameMaker Studio"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="Photoshop"  />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="Photoshop (can they stop removing icons pleasee)"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="30" alt="Godot"  />
   <img width="12" />
@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/lua/2C2D72" height="30" alt="Lua"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="30" alt="Premiere Pro"  />
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="30" alt="Premiere Pro (grahhhh)"  />
 </div>
 
 ---
