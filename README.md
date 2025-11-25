@@ -17,15 +17,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="30" alt="GameMaker Studio"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="Photoshop (can they stop removing icons pleasee)"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="30" alt="Godot"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="Python"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/lua/2C2D72" height="30" alt="Lua"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="30" alt="Premiere Pro (grahhhh)"  />
 </div>
 
 ---
@@ -50,6 +46,8 @@
 
 <div align="left">
   <img width="12" />
+  <a href="https://orkpeko.xyz/"><img src="https://cdn.simpleicons.org/nginx/009639" height="30" alt="Website"  /></a>
+  <img width="12" />
   <a href="https://twitch.tv/orkpeko"><img src="https://cdn.simpleicons.org/twitch/9146FF" height="30" alt="Twitch"  /></a>
   <img width="12" />
   <a href="https://instagram.com/orkpeko"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="Instagram"  /></a>
@@ -64,6 +62,7 @@
 <br clear="both">
 
 ###
-idk anything
+idk anything and i mstupid
 -----
-i dont use this much but hey at least its *some* evidence 
+i keep most of my coding projects locally, and only commit to repos with ones that im working with others on or that im willing to share publicly.
+Imagine Committing Anything. Lol.
