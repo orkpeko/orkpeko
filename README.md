@@ -26,22 +26,6 @@
 
 ---
 
-### OPERATING SYSTEMS
-
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="Android"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=windows" height="30" alt="Windows 10"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="30" alt="Fedora"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/endeavouros/7F7FFF" height="30" alt="EndeavourOS"  />
-  
-</div>
-
----
-
 ### SOCIALS
 
 <div align="left">
@@ -65,4 +49,6 @@
 idk anything and i mstupid
 -----
 i keep most of my coding projects locally, and only commit to repos with ones that im working with others on or that im willing to share publicly.
+5 billion private repos
+
 Imagine Committing Anything. Lol.
